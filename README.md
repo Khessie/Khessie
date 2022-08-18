@@ -8,8 +8,8 @@ I am a student of AltSchool Africa [School of Software Engineering] and ALX SE a
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently studying Cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022
-- 🌱 I have basic knowledge of HTML, CSS, JS, C, Python and Shell.
-- 🌱 I’m currently learning Bash Scripting, Using Cloud Servives, AWS, GCP and Azure.
+- 🌱 I have basic knowledge of `HTML`, `CSS`, `JS`, `C`, `Python` and `Shell`.
+- 🌱 I’m currently learning `Bash Scripting`, `Using Cloud Servives`, `AWS`, `GCP` and `Azure`.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Devops Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing miriamefedhoma@ymail.com
